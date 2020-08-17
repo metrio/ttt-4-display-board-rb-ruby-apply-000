@@ -1,6 +1,6 @@
 # Define display_board that accepts a board and prints
 # out the current state.
- x=
+ x = capture_puts
 board = [#{x},#{x},#{x},#{x},#{x},#{x},#{x},#{x},#{x},#{x}]
 
 def display_board(board)
