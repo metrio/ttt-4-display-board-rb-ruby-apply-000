@@ -1,7 +1,7 @@
 # Define display_board that accepts a board and prints
 # out the current state.
 
-board = [#{x},#{x},#{x},X{
+board(9) = #{x}
 
 def display_board(board)
 
