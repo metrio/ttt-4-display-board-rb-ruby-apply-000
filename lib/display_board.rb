@@ -1,7 +1,7 @@
 # Define display_board that accepts a board and prints
 # out the current state.
  
-board.Array = capture_puts
+board.Array(9)
 
 def display_board(board)
   
